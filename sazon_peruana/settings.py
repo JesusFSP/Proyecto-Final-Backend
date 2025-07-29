@@ -35,7 +35,11 @@ SECRET_KEY = 'django-insecure-qv)7p#yt1*xcx_9dehe2cq1*xbra0h4ez4pp7m!xn72p&+z+yb
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [
+    'localhost',
+    '127.0.0.1',
+    'proyecto-final-backend-evne.onrender.com',   # ← nuevo
+]
 
 
 REST_FRAMEWORK = {
