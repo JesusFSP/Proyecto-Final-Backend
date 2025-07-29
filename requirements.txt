@@ -8,3 +8,4 @@ python-decouple==3.8
 sqlparse==0.5.3
 crispy-bootstrap5>=2023.10
 reportlab
+WeasyPrint
