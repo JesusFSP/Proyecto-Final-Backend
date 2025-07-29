@@ -9,3 +9,4 @@ sqlparse==0.5.3
 crispy-bootstrap5>=2023.10
 reportlab
 WeasyPrint
+gunicorn==23.0.0
